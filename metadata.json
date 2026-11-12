@@ -1,0 +1,6 @@
+{
+  "name": "Movies & Series",
+  "description": "Stream trending movies and series with multiple streamers, cloud providers, and custom user profiles",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

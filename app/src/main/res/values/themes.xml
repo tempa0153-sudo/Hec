@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.MoviesAndSeries" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#0C0C0F</item>
+        <item name="android:navigationBarColor">#0C0C0F</item>
+        <item name="android:windowBackground">@drawable/splash_window_background</item>
+    </style>
+
+    <style name="Theme.MyApplication" parent="Theme.MoviesAndSeries" />
+</resources>
